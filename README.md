@@ -1,1 +1,1 @@
-<h1 align="center" id="title">Projetin</h1>
+<h1 align="center" id="title">Parte de QA</h1>
