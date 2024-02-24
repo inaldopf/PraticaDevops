@@ -66,6 +66,8 @@ while rep == 0:
             print("A OPÇÃO ESCOLHIDA NÃO ESTÁ NO MENU")
         else:
             break
+    # Pedindo senha do cartão
+    senha = int(input("Digite a senha do cartão: "))
 
     # Aplicação de desconto se o pagamento for feito no débito
     if pag == 1:
