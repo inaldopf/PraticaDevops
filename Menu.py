@@ -1,4 +1,4 @@
-# Autores: Carlos Henrique De Godoy Santos; Inaldo pereira freitas
+# Autores:  Carlos Henrique De Godoy Santos; Inaldo pereira freitas
 # Programa feito em 23/02/2024 
 
 # Este código é um menu, onde o cliente escolhe uma das opções apresentadas e a quantidade desejada. 
